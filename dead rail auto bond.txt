@@ -1,0 +1,6 @@
+script_key="PASTEKEYHERE";
+(loadstring or load)(game:HttpGet("https://getnative.cc/script/loader"))()
+ 
+ 
+Get key here
+https://ads.luarmor.net/get_key?for=Native_Lootlabs-hgTHxCASTxVE
